@@ -5,6 +5,7 @@
 -- Estimated scan: 16.39 GB
 -- Notes: First day is partial. Volume = value / 1e6 (USDT has 6 decimals).
 
+
 select
 extract(date from block_timestamp) as dayy,
 count(*) as t_count,
