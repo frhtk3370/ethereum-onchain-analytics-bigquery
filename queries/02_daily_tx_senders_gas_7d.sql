@@ -5,6 +5,7 @@
 -- Estimated scan: not recorded
 -- Notes: The first and last day are partial because the window is "now - 7 days".
 
+
 SELECT
   EXTRACT(DATE FROM block_timestamp) AS tx_date,
   COUNT(*) AS tx_count,
