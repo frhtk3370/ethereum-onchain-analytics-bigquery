@@ -6,6 +6,7 @@
 -- Notes: receipt_gas_used is actual gas spent (gas is only the sender's limit).
 --        A NULL to_address means contract creation transactions.
 
+
 SELECT
   to_address,
   SUM(receipt_gas_used) AS total_gas_used
