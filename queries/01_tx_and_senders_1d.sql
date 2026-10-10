@@ -5,6 +5,7 @@
 -- Estimated scan: 87.23 MB
 -- Notes: Partition filter on block_timestamp keeps the scan small (unfiltered: ~155 GB).
 
+
 SELECT
   COUNT(*) AS tx_count,
   COUNT(DISTINCT from_address) AS unique_senders
