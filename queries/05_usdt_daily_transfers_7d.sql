@@ -6,6 +6,7 @@
 -- Notes: USDT contract 0xdac17f958d2ee523a2206206994597c13d831ec7.
 --        The first and last day are partial because the window is "now - 7 days".
 
+
 SELECT
   EXTRACT(DATE FROM block_timestamp) AS tx_date,
   COUNT(*) AS transfer_count,
