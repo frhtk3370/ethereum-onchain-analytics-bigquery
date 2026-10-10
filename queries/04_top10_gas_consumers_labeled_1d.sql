@@ -5,6 +5,7 @@
 -- Estimated scan: 1.49 GB
 -- Notes: LEFT JOIN keeps non-token contracts (symbol is NULL), e.g. routers and entry points.
 
+
 WITH top_gas AS (
   SELECT
     to_address,
