@@ -11,3 +11,5 @@
 2026-10-09 | 06 | USDT volume is typically $4B-$19B/day (weekends lowest), with outlier days of $37B (Sep 17), $57B (Oct 7) and $45B (Oct 8) at normal transfer counts; Sep 9 is a partial day.
 
 2026-10-10 | 07 | Top net USDT outflow was ~$512M from Binance 14 (exchange wallet), top inflow ~$334M; results cover a rolling 7-day window.
+
+2026-10-10 | 08 | Binance 14 had a net USDT outflow of ~$522M over the window, driven by Oct 9 (-$958M net); Oct 3 and Oct 10 are partial days.
