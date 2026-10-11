@@ -2,7 +2,7 @@
 -- Question: What do the last hour of USDT transfers look like (count, unique wallets, volume, average, median, max)?
 -- Source: bigquery-public-data.crypto_ethereum.logs
 -- Date run: 2026-10-11
--- Estimated scan: ...
+-- Estimated scan: 617 MB
 -- Notes: Decoded from raw topics/data; median is approximate (APPROX_QUANTILES).
 
 with decoded as (
