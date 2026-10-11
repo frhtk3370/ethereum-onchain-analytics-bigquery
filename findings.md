@@ -14,4 +14,4 @@
 
 2026-10-10 | 08 | Binance 14 had a net USDT outflow of ~$522M over the window, driven by Oct 9 (-$958M net); Oct 3 and Oct 10 are partial days.
 
-2026-10-11 | 09 | In a rolling 1-hour window, ~33.2K USDT transfers moved ~$431M, but the median transfer was only ~$1.90 (avg ~$13K); one ~$73M transfer was ~17% of volume.
+2026-10-11 | 09 | In a rolling 1-hour window, ~33.2K USDT transfers moved ~$431M, but the median transfer was only ~$1.90 (avg ~$13K); one ~$73M transfer was ~17% of volume. 
